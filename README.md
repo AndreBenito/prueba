@@ -9,7 +9,9 @@ hist(x)
 
 ## Sección 1
 
-Hola mundo
+A continuación mostramos la distribución de x:
+
+$$x \sim N(0,1)$$
 
 ## Sección 2
 
